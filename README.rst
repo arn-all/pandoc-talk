@@ -12,6 +12,15 @@ Features
 - Useful Makefile
 - Sensible .gitignore
 
+Requirements
+------------
+
+The document is built using the Ubuntu_ and Inconsolata_ font families, and the Metropolis_ Beamer theme. You need to install it, or to remove it from header.tex and Makefile.
+
+.. _Ubuntu: https://design.ubuntu.com/font
+.. _Inconsolata: https://fonts.google.com/specimen/Inconsolata
+.. _Metropolis: https://ctan.org/pkg/beamertheme-metropolis
+
 Using this template
 -------------------
 ::
