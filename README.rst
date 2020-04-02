@@ -32,7 +32,7 @@ You will be asked about your basic info (name, title, etc.). This info will be u
 
     $ make
 
-You can generate a printable plain paper version of the slides using :
+You can generate a printable plain paper version of the slides using ::
 
     $ make report.pdf
 
