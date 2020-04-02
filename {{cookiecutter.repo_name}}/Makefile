@@ -1,4 +1,4 @@
-default: slides.pdf
+default: slides.html slides.pdf 
 
 slides.pdf: slides.md header.tex
 	pandoc -t beamer -H header.tex --pdf-engine=xelatex  -V theme=metropolis $< -o $@
