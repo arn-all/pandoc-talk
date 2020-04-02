@@ -28,9 +28,14 @@ Using this template
     $ pip install cookiecutter
     $ cookiecutter https://github.com/larsyencken/pandoc-talk.git
 
-You will be asked about your basic info (name, title, etc.). This info will be used in your new talk. Once you've made your template, you can build your talk with::
+You will be asked about your basic info (name, title, etc.). This info will be used in your new talk. To specify multiple authors, directly modify the slides.md file header. Once you've made your template, you can build your talk with::
 
     $ make
+
+You can generate a printable plain paper version of the slides using :
+
+    $ make report.pdf
+
 
 License
 -------
