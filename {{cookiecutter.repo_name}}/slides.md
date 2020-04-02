@@ -1,7 +1,7 @@
 ---
 title:  {{cookiecutter.title}}
 author:
-- Author {{cookiecutter.full_name}}
+- {{cookiecutter.full_name}}
 #- Author Two
 date: {{cookiecutter.date}}
 abstract: |
