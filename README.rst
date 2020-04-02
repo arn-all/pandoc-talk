@@ -39,5 +39,5 @@ You can generate a printable plain paper version of the slides using ::
 
 License
 -------
-BSD licensed.
+BSD licensed.  Forked from https://github.com/larsyencken/pandoc-talk (archived)
 
